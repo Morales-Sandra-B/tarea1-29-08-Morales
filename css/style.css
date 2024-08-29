@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+
+.Nivel1{
+    background-color: rgb(220, 54, 20);
+    padding: 20px;
+    width: 1000px; 
+    border-radius: 20px;
+}
+.Nivel2{
+    background-color: rgb(234, 225, 57);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.Nivel3{
+    background-color: rgb(33, 210, 23);
+    padding: 20px;
+    margin: 30px;
+    border-radius: 20px;
+}
+.Nivel4{
+    background-color: rgb(31, 203, 203);
+    padding:20px;
+    border-radius: 20px;
+}
+.Nivel5{
+    background-color: rgb(88, 106, 238);
+    padding:20px;
+    border-radius: 20px;
+}
+.Nivel6{
+    background-color: rgb(99, 17, 166);
+    padding:20px;
+    border-radius: 20px;
+}
+.Nivel7{
+    background-color: rgb(231, 50, 162);
+    padding:20px;
+    border-radius: 20px;
+}
